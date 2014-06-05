@@ -1,0 +1,29 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"ApacheConf.tmLanguage",
+		"AutoFileName",
+		"Autoprefixer",
+		"BracketHighlighter",
+		"BufferScroll",
+		"ConvertToUTF8",
+		"CSS3_Syntax",
+		"CSScomb JS",
+		"Emmet",
+		"FindKeyConflicts",
+		"GitGutter",
+		"Goto-CSS-Declaration",
+		"Local History",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-jslint",
+		"SublimeLinter-csslint",
+		"Theme - itg.flat",
+		"TrailingSpaces",
+		"VAlign"
+	]
+}

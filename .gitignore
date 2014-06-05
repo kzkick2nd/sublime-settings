@@ -1,0 +1,7 @@
+*.cache
+*_tmp
+encoding_cache.json
+Package Control.last-run
+Package Control.system-ca-bundle
+c2u_tmp
+.DS_Store

@@ -1,0 +1,26 @@
+{
+	"color_scheme": "Packages/User/itg.dark (SL).tmTheme",
+	"create_window_at_startup": false,
+	"draw_indent_guides": true,
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"itg_small_tabs": true,
+	"match_brackets": false,
+	"open_files_in_new_window": false,
+	"show_full_path": true,
+	"tab_size": 2,
+	"theme": "itg.flat.dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": "true"
+}
