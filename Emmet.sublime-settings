@@ -1,1 +1,1 @@
-{ "disabled_keymap_actions": "expand_abbreviation" }
+{ "disabled_keymap_actions": "expand_abbreviation, run_emmet_action" }
