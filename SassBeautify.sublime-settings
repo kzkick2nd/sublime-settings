@@ -1,0 +1,5 @@
+{
+    "path": "/usr/local/bin:/Users/kzkick2nd/.rbenv/shims:/Users/kzkick2nd/.rbenv/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin",
+    "indent": 2,
+    "beautifyOnSave": true
+}
